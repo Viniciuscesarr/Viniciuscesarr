@@ -1,5 +1,5 @@
 - 📚 Estudando para ser desenvolvedor Front-end
-- 📖 Conhecimento em JavaScript
+- 📖 Conhecimento em JavaScript, PHP, HTML5 e CSS3
 - 📭 Email: Viniciuscesar027@gmail.com
 
 
