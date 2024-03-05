@@ -1,5 +1,5 @@
 - 📚 Desenvolvedor Back-end
-- 📖 Conhecimento em JavaScript, PHP, HTML5 e CSS3
+- 📖 Conhecimento em JavaScript, PHP, Laravel, NodeJs
 - 📭 Email: Viniciuscesar027@gmail.com
 
 
